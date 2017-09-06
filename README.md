@@ -1,4 +1,4 @@
-# Events and listening to DOM nodes
+# Events and listeners
 
 ## Objectives
 
@@ -97,4 +97,4 @@ In this lesson we learned that we can trigger manipulations of our DOM through e
 - [StackOverflow - Bubbling and Capturing](http://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing)
 - [QuirksMode - Event order](http://www.quirksmode.org/js/events_order.html)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/listening-to-dom-nodes'>Listening To Nodes</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/events-and-listeners'>Events and Listeners</a> on Learn.co and start learning to code for free.</p>
