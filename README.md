@@ -1,10 +1,10 @@
-# Events and listeners
+# Events and listening to DOM nodes
 
 ## Objectives
 
 1. Add an event listener to a DOM node
-2. Trigger event listeners on DOM nodes
-3. Explain the difference between bubbling and capturing events
+2. Accessing the event object
+3. Altering HTML after events occur
 
 ## Bringing it together
 
@@ -94,7 +94,6 @@ In this lesson we learned that we can trigger manipulations of our DOM through e
 ## Resources
 
 - [MDN - Web Events](https://developer.mozilla.org/en-US/docs/Web/Events)
-- [StackOverflow - Bubbling and Capturing](http://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing)
 - [QuirksMode - Event order](http://www.quirksmode.org/js/events_order.html)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/events-and-listeners'>Events and Listeners</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/events-and-eventListeners'>Listening To Nodes</a> on Learn.co and start learning to code for free.</p>
