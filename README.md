@@ -8,9 +8,9 @@
 
 ## Bringing it together
 
-So far we've seen that we can easily manipulate nodes in the DOM, and even create and remove elements (we are using the words DOM nodes and elements interchangeably) at will. But what triggers these changes?  How do real websites change elements?  Well, their code listens for events, and then alters the HTML accordingly.
+So far we've seen that we can easily manipulate nodes in the DOM, and even create and remove elements at will (we are using the words DOM nodes and elements interchangeably). But what triggers these changes?  How do real websites change elements?  Well, their code listens for events, and then alters the HTML accordingly.
 
-Events occur inside a browser window and are attached to the DOM element from where the event originated.  For example, we can say that a user clicked on the paragraph.  The clicking would be an event.  This is another one of those concepts that comes through practice, so let's dive in.
+An event occurs inside a browser window and is attached to a DOM element from where the event originated, the target of the event.  For example, we can say that a user clicked on the paragraph.  The clicking would be an event, and the paragraph would be the event's target.  This concept is best understood through practice, so let's dive in.
 
 ## Listening for events
 
